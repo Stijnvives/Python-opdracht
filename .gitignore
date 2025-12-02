@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Database
+data/
+
+# Config (gevoelige data)
+config.json
+
+# Python cache
+__pycache__/
