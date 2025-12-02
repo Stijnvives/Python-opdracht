@@ -23,7 +23,7 @@ VB Powershell: cd "C:\Users\Stijn\mapfilms"
 VB Git Bash: cd "C:\Users\Stijn\mapfilms"
 
 2. Clone de repository:
-git clone <repo-url>
+git clone https://github.com/Stijnvives/Python-opdracht.git
 cd Python-opdracht
 
 
