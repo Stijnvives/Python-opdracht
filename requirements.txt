@@ -1,0 +1,8 @@
+# Dit project gebruikt alleen standaard Python-modules, dus er zijn geen extra pakketten nodig.
+
+# Standaard modules die gebruikt worden:
+# - sqlite3
+# - csv
+# - json
+# - os
+# - sys
