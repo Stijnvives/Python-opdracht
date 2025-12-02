@@ -24,7 +24,7 @@ VB Git Bash: cd "C:\Users\Stijn\mapfilms"
 
 2. Clone de repository:
 git clone <repo-url>
-cd filmtool
+cd Python-opdracht
 
 
 3. Virtuele omgeving aanmaken en activeren:
